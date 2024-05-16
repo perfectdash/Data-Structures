@@ -1,0 +1,1 @@
+{"name":"Local: RABIN_KARP_ALGORITHM","url":"d:\\DSA\\RABIN_KARP_ALGORITHM.cpp","tests":[{"id":1678124509045,"input":"fuckoff \noff","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\RABIN_KARP_ALGORITHM.cpp","group":"local","local":true}

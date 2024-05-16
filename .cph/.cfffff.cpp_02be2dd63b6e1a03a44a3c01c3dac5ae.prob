@@ -1,0 +1,1 @@
+{"name":"Local: cfffff","url":"d:\\DSA\\cfffff.cpp","tests":[{"id":1677938692067,"input":"","output":""},{"id":1677938780639,"input":"0 0 1 1","output":"0 1 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\cfffff.cpp","group":"local","local":true}

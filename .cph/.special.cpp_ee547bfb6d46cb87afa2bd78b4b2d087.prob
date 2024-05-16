@@ -1,0 +1,1 @@
+{"name":"Local: special","url":"d:\\DSA\\special.cpp","tests":[{"id":1678096049952,"input":"3\n1\n5\n499993","output":"0\n40\n41664916690999888"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\special.cpp","group":"local","local":true}
